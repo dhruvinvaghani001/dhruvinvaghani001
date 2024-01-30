@@ -1,7 +1,7 @@
 ### 👋 Hi there , I'm Dhruvin Vaghani
 
 
-### i'm a passionte webdevloper from india
+## i'm a passionte webdevloper from india
 <!--
 **dhruvinvaghani001/dhruvinvaghani001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
