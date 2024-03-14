@@ -3,13 +3,13 @@
 
 #### I'm an enthusiastic webdevloper from the vibrant landscapes of India, crafting digital wonders with lines of code.
 
-## 👩‍💻 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 👇🏽
+## 👩‍💻 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 👇
 <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,redux,nextjs&theme=dark"  height="42" alt="Frontend technologies"  />
 <img src="https://skillicons.dev/icons?i=nodejs,expressjs,mongodb,appwrite&theme=dark"  height="42" alt="Backend technologies"  />
 <img src="https://skillicons.dev/icons?i=py&theme=dark"  height="42" alt="other tech"  />
 
 
-## 🛠 𝐓𝐨𝐨𝐥𝐬 👇🏽
+## 🛠 𝐓𝐨𝐨𝐥𝐬 
 <img src="https://skillicons.dev/icons?i=git,postman,vscode&theme=dark"  height="42" alt="Tools"  />
 
 ## 𝐥𝐢𝐧𝐤𝐬 🔗
