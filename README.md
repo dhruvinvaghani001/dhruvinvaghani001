@@ -10,7 +10,7 @@
 
 
 ## 🛠 𝐓𝐨𝐨𝐥𝐬 
-<img src="https://skillicons.dev/icons?i=git,postman,vscode&theme=dark"  height="46" alt="Tools"  />
+<img src="https://skillicons.dev/icons?i=git,postman,vscode,docker&theme=dark"  height="46" alt="Tools"  />
 
 ## 🔗 𝐥𝐢𝐧𝐤𝐬 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvin-vaghani-02588123b)
