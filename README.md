@@ -1,7 +1,9 @@
-# 👋 **Hey there , I'm Dhruvin Vaghani**
+## 👋 𝐇𝐞𝐲 , 𝐈'𝐦 𝐃𝐡𝐫𝐮𝐯𝐢𝐧 𝐕𝐚𝐠𝐡𝐚𝐧𝐢
 
-
-#### I'm an enthusiastic webdevloper from the vibrant landscapes of India, crafting digital wonders with lines of code.
+- 🌱 I’m currently learning **Django**.
+- 👯 I’m looking to collaborate on **React and Node js Project**.
+- 🍒 I'm eager to team up on different projects to learn and grow.
+- 📫 For inquiries or collaborations, feel free to reach out to me via [@twitter(X)](https://twitter.com/Dhruvin0001).
 
 ## 👩‍💻 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 
 <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,redux,nextjs&theme=dark"  height="46" alt="Frontend technologies"  />
@@ -12,9 +14,11 @@
 ## 🛠 𝐓𝐨𝐨𝐥𝐬 
 <img src="https://skillicons.dev/icons?i=docker,git,postman,vscode&theme=dark"  height="46" alt="Tools"  />
 
-## 🔗 𝐥𝐢𝐧𝐤𝐬 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvin-vaghani-02588123b)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Dhruvin0001)
+## 🤝 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐇𝐞𝐫𝐞
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dhruvin-vaghani-02588123b)
+[![Twittwer](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Dhruvin0001)
+
+## 🔗 𝐒𝐨𝐦𝐞 𝐥𝐢𝐧𝐤𝐬
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dhruvinvaghani0011)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://javascript002.hashnode.dev/)
 
@@ -27,18 +31,4 @@
 <div>
 --!>
 
-
-<!--
-**dhruvinvaghani001/dhruvinvaghani001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
