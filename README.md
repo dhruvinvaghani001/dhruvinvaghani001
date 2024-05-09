@@ -8,7 +8,7 @@
 
 
 [![GitHub Streak](https://github-readme-stats.vercel.app/api?username=dhruvinvaghani001&theme=rose_pine&show_icons=true&rank_icon=github)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dhruvinvaghani001&theme=rose_pine&show_icons=true&rank_icon=github)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dhruvinvaghani001&theme=rose_pine)](https://git.io/streak-stats)
 
 ## 👩‍💻 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 
 <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,redux,nextjs&theme=dark"  height="46" alt="Frontend technologies"  />
