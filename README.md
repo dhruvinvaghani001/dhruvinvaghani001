@@ -12,7 +12,7 @@
 ## 👩‍💻 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬
 <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,redux,nextjs&theme=dark"  height="46" alt="Frontend technologies"  />
 <img src="https://skillicons.dev/icons?i=nodejs,expressjs,mongodb,appwrite&theme=dark"  height="46" alt="Backend technologies"  />
-<img src="https://skillicons.dev/icons?i=py,django&theme=dark"  height="46" alt="other tech"  />
+<img src="https://skillicons.dev/icons?i=py&theme=dark"  height="46" alt="other tech"  />
 
 
 ## 🛠 𝐓𝐨𝐨𝐥𝐬
