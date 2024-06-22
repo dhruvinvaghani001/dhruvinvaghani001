@@ -1,32 +1,30 @@
-# 👋 𝐇𝐞𝐲, 𝐈'𝐦 𝐃𝐡𝐫𝐮𝐯𝐢𝐧 𝐕𝐚𝐠𝐡𝐚𝐧𝐢
+#  𝐇𝐞𝐲👋 𝐈'𝐦 𝐃𝐡𝐫𝐮𝐯𝐢𝐧 𝐕𝐚𝐠𝐡𝐚𝐧𝐢
 
-- 🌱 I’m currently learning **Django**.
-- 👯 I’m looking to collaborate on **React and Node js Project**.
-- 🍒 I'm eager to team up on different projects to learn and grow.
-- 📫 For inquiries or collaborations, feel free to reach out to me via [@twitter(X)](https://twitter.com/Dhruvin0001).
+* 🌍  I'm based in india
+* ✉️  You can contact me at [dhruvinvaghani0011@gmail.com](mailto:dhruvinvaghani0011@gmail.com)
+* 🧠  I'm learning more advance concept of software devlopment and deplyment things
+* 🤝  I'm open to collaborating on web dev projects
 
-
-[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=dhruvinvaghani001&theme=rose_pine&show_icons=true&rank_icon=github)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dhruvinvaghani001&theme=rose_pine)](https://git.io/streak-stats)
-
-## 👩‍💻 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,redux,nextjs&theme=dark"  height="46" alt="Frontend technologies"  />
-<img src="https://skillicons.dev/icons?i=nodejs,expressjs,mongodb,appwrite&theme=dark"  height="46" alt="Backend technologies"  />
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql&theme=dark"  height="46" alt="other tech"  />
-<img src="https://skillicons.dev/icons?i=py&theme=dark"  height="46" alt="other tech"  />
+### 👩‍💻 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬
+<img src="https://skillicons.dev/icons?i=js,ts,tailwind,react,redux,nextjs&theme=dark"  height="36" alt="Frontend technologies"  />
+<img src="https://skillicons.dev/icons?i=nodejs,expressjs,php,laravel&theme=dark"  height="36" alt="Backend technologies"  />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,prisma&theme=dark"  height="36" alt="other tech"  />
+<img src="https://skillicons.dev/icons?i=py&theme=dark"  height="36" alt="other tech"  />
 
 
-## 🛠 𝐓𝐨𝐨𝐥𝐬
-<img src="https://skillicons.dev/icons?i=docker,git,postman,vscode&theme=dark"  height="46" alt="Tools"  />
+### 🛠 𝐓𝐨𝐨𝐥𝐬
+<img src="https://skillicons.dev/icons?i=git,postman,docker,vscode&theme=dark"  height="36" alt="Tools"  />
 
-## 🤝 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐇𝐞𝐫𝐞
+### 🤝 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐇𝐞𝐫𝐞
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dhruvin-vaghani-02588123b)
 [![Twittwer](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Dhruvin0001)
 
-## 🔗 𝐒𝐨𝐦𝐞 𝐥𝐢𝐧𝐤
+### 🔗 𝐒𝐨𝐦𝐞 𝐥𝐢𝐧𝐤
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dhruvinvaghani0011)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://javascript002.hashnode.dev/)
 
+[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=dhruvinvaghani001&theme=rose_pine&show_icons=true&rank_icon=github)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dhruvinvaghani001&theme=rose_pine)](https://git.io/streak-stats)
 
 <!--
 <div style="text-align:center">
