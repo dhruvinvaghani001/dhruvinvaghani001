@@ -8,7 +8,7 @@
 ### 👩‍💻 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬
 <img src="https://skillicons.dev/icons?i=js,ts,tailwind,react,redux,nextjs&theme=dark"  height="36" alt="Frontend technologies"  />
 <img src="https://skillicons.dev/icons?i=nodejs,expressjs,php,laravel&theme=dark"  height="36" alt="Backend technologies"  />
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,prisma&theme=dark"  height="36" alt="other tech"  />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark"  height="36" alt="other tech"  />
 <img src="https://skillicons.dev/icons?i=py&theme=dark"  height="36" alt="other tech"  />
 
 
