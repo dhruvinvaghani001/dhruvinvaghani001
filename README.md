@@ -2,7 +2,7 @@
 
 * 🌍  I'm based in india
 * ✉️  You can contact me at [dhruvinvaghani0011@gmail.com](mailto:dhruvinvaghani0011@gmail.com)
-* 🧠  I'm learning more advance concept of software devlopment and deplyment things
+* 🧠  I'm learning more advance concept of software devlopment and deployments things
 * 🤝  I'm open to collaborating on web dev projects
 
 ### 👩‍💻 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬
