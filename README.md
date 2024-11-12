@@ -1,18 +1,18 @@
-##  𝐇𝐞𝐲👋 𝐈'𝐦 𝐃𝐡𝐫𝐮𝐯𝐢𝐧 𝐕𝐚𝐠𝐡𝐚𝐧𝐢
+##  Hey👋 I'm Dhruvin vaghani
 
 * 🌍  I'm based in india
 * ✉️  You can contact me at [dhruvinvaghani0011@gmail.com](mailto:dhruvinvaghani0011@gmail.com)
 * 🧠  I'm learning more advance concept of software devlopment and deployments things
 * 🤝  I'm open to collaborating on web dev projects
 
-## 👩‍💻 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬
+## 👩‍💻 Skills
 <img src="https://skillicons.dev/icons?i=js,ts,tailwind,react,redux,nextjs&theme=dark"  height="36" alt="Frontend technologies"  />
-<img src="https://skillicons.dev/icons?i=nodejs,expressjs,php,laravel&theme=dark"  height="36" alt="Backend technologies"  />
+<img src="https://skillicons.dev/icons?i=nodejs,expressjs,python,php,laravel&theme=dark"  height="36" alt="Backend technologies"  />
 <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark"  height="36" alt="other tech"  />
-<img src="https://skillicons.dev/icons?i=py&theme=dark"  height="36" alt="other tech"  />
 
 
-## 🛠 𝐓𝐨𝐨𝐥𝐬
+
+## 🛠 Tools
 <img src="https://skillicons.dev/icons?i=git,postman,docker,vscode&theme=dark"  height="36" alt="Tools"  />
 
 ## 💯 Stats
@@ -37,11 +37,11 @@
 </details>
 
 
-## 🤝 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐇𝐞𝐫𝐞
+## 🤝 Get in touch
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dhruvin-vaghani-02588123b)
 [![Twittwer](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Dhruvin0001)
 
-## 🔗 𝐒𝐨𝐦𝐞 𝐥𝐢𝐧𝐤
+## 🔗 Some link
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dhruvinvaghani0011)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://javascript002.hashnode.dev/)
 
