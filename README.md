@@ -5,11 +5,8 @@
 * 🧠  I'm learning more advance concept of software devlopment and deployments things
 * 🤝  I'm open to collaborating on web dev projects
 
-## 👩‍💻 Skills
-<img src="https://skillicons.dev/icons?i=js,ts,tailwind,react,redux,nextjs&theme=dark"  height="36" alt="Frontend technologies"  />
-<img src="https://skillicons.dev/icons?i=nodejs,expressjs,python,php,laravel&theme=dark"  height="36" alt="Backend technologies"  />
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark"  height="36" alt="other tech"  />
-
+## 👩‍💻 Skiils
+<img src="https://skillicons.dev/icons?i=js,ts,python,tailwind,react,redux,nextjs,nodejs,expressjs,php,laravel,mongodb,mysql&theme=dark"  height="36" alt="Skiils"  />
 
 
 ## 🛠 Tools
