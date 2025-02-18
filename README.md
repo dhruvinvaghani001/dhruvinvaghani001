@@ -7,7 +7,7 @@
 * 🤝  I'm open to collaborating on web dev projects
 
 ## 👩‍💻 Skiils
-<img src="https://skillicons.dev/icons?i=js,ts,python,tailwind,react,redux,nextjs,nodejs,expressjs,php,laravel,mongodb,mysql&theme=dark"  height="36" alt="Skiils"  />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,python,tailwind,react,zustand,reactquery,nextjs,nodejs,expressjs,php,laravel,mongodb,mysql&theme=dark"  height="36" alt="Skiils"  />
 
 
 ## 🛠 Tools
