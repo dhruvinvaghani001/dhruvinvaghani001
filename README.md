@@ -11,7 +11,7 @@
 
 
 ## 🛠 Tools
-<img src="https://skillicons.dev/icons?i=git,postman,docker,vscode&theme=dark"  height="36" alt="Tools"  />
+<img src="https://skillicons.dev/icons?i=git,postman,docker,vscode,linux&theme=dark"  height="36" alt="Tools"  />
 
 ## 💯 Stats
 
