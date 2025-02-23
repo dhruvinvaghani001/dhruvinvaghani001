@@ -1,17 +1,21 @@
 ##  Hey👋 I'm Dhruvin vaghani
 
-* 🌍  I'm based in india
+* 🌍  I'm based in india.
 * 🖥️  See my portfolio at [dhruvinvaghani.me](http://www.dhruvinvaghani.me/)
 * ✉️  You can contact me at [dhruvinvaghani0011@gmail.com](mailto:dhruvinvaghani0011@gmail.com)
-* 🧠  I'm learning more advance concept of software devlopment and deployments things
+* 🧠  I'm learning more advance concept of software devlopment and deployments things.
 * 🤝  I'm open to collaborating on web dev projects
 
-## 👩‍💻 Skiils
-<img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,python,tailwind,react,zustand,reactquery,nextjs,nodejs,expressjs,php,laravel,mongodb,mysql&theme=dark"  height="36" alt="Skiils"  />
+
+## 🧑‍💻 Skiils
+<img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,tailwind,react,zustand,reactquery,nextjs,nodejs,expressjs&theme=dark"  height="36" alt="Skiils"  />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python&theme=dark"  height="36" alt="Skiils"  />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb,mysql,postgres&theme=dark"  height="36" alt="Skiils"  />
+
 
 
 ## 🛠 Tools
-<img src="https://skillicons.dev/icons?i=git,postman,docker,vscode,linux&theme=dark"  height="36" alt="Tools"  />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=linux,git,postman,docker,vim&theme=dark"  height="36" alt="Tools"  />
 
 ## 💯 Stats
 
@@ -36,16 +40,21 @@
 
 
 ## 🤝 Get in touch
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dhruvin-vaghani-02588123b)
-[![Twittwer](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Dhruvin0001)
-
-## 🔗 Some link
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dhruvinvaghani0011)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://javascript002.hashnode.dev/)
+[![Linkedin](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/dhruvin-vaghani-02588123b)
+[![Twittwer](https://go-skill-icons.vercel.app/api/icons?i=x)](https://twitter.com/Dhruvin0001)
 
 <hr />
 <div>©️ Dhruvin Vaghani | 2024
 </div>
+
+
+<!--
+## 🔗 Some link
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dhruvinvaghani0011)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://javascript002.hashnode.dev/)
+--!>
+
+
 
 <!--
 <div style="text-align:center">
